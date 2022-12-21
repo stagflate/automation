@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author stone
+ *
+ */
+module automation {
+}
